@@ -1,0 +1,5 @@
+Projeto: Gerenciador de Tarefas VB6
+Versão: 1.0.0
+Data: 15/05/2025
+Autor: Equipe VB Clássico
+Descrição: CRUD de tarefas simples com lógica de negócio modularizada.

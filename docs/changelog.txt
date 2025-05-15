@@ -1,0 +1,5 @@
+v1.0.0 - 15/05/2025
+- Projeto inicial
+- CRUD básico de tarefas
+- Estrutura de módulos e formulários separada
+- Arquivos de configuração e documentação adicionados
